@@ -1,0 +1,49 @@
+html{
+    background-image: radial-gradient(rgb(210, 211, 202), rgb(91, 90, 108));
+    scroll-behavior: smooth;
+    font-size: 16px;
+}
+
+a{
+    color: rgb(70, 67, 67);
+    background-color: rgb(173, 169, 169);
+}
+a:hover {
+    color: rgb(222, 25, 25);
+    background-color: rgb(178, 176, 178);
+  }
+
+img {
+    max-width: 100%;
+  }
+
+.title-font{
+    font-size: 30px;
+    text-align: center;
+}
+
+.title-align{
+    text-align: left;
+    }
+     
+
+.table-pilots{
+  
+text-align: center;
+ background-color:azure;
+ }
+ .table-style-border{
+    border-style: dashed;
+    border-color: brown;
+    
+ }
+
+ .list-color{
+    background-color: azure;
+ }
+
+ .img-logos{
+    width: 100px; height: 75px;
+ }
+
+ 
