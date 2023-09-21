@@ -1,16 +1,45 @@
 html{
-    background-image: radial-gradient(rgb(210, 211, 202), rgb(91, 90, 108));
+    background-image: radial-gradient(rgb(232, 226, 226), rgb(245, 245, 245));
     scroll-behavior: smooth;
     font-size: 16px;
 }
+body{
+    background-image: radial-gradient(rgb(232, 226, 226),rgb(245, 245, 245));
+    scroll-behavior: smooth;
+    font-size: 16px;
+
+}
+h1{
+    font-family: 'Fuggles', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+h5{
+    font-family: 'Fuggles', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+p{
+    font-family: 'Fuggles', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
 
 a{
+    font-family: 'Fuggles', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
     color: rgb(224, 223, 223);
-    background-color: rgb(11, 8, 8);
+    background-color: rgb(93, 56, 145);
 }
 a:hover {
-    color: rgb(108, 97, 68);
-    background-color: rgb(196, 153, 61);
+    
+    font-family: 'Fuggles', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(232, 226, 226);
+    background-color: rgb(249, 148, 23);
   }
 
 img {
@@ -18,11 +47,15 @@ img {
   }
 
 .title-font{
+    font-family: 'Fuggles', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 30px;
     text-align: center;
 }
 
 .title-align{
+    
     text-align: left;
     }
      
@@ -45,6 +78,9 @@ text-align: center;
  .img-logos{
     width: 100px; height: 75px;
  }
-  
+
+ .card-cv-color{
+   color: rgb(232, 226, 226);
+ }
 
  
