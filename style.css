@@ -126,8 +126,6 @@ font-family: 'Trade Winds', cursive;
     top: 50px; 
 }
 
-
-
 .button-font-color{
     font-family: 'Fuggles', cursive;
 font-family: 'Raleway', sans-serif;
@@ -135,8 +133,20 @@ font-family: 'Roboto Condensed', sans-serif;
 font-family: 'Trade Winds', cursive;
 }
 .carousel-height{
-    width: 850px;
-    height: 600px;
-    
+    width: 850px; 
 }
+.card-notices-color{
+    background-color: rgb(245, 245, 245);
+}
+.background-notices{
+    background-color: rgb(232, 226, 226)
+}
+ 
+.font-navbar{
+    font-family: 'Fuggles', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Trade Winds', cursive;
+    color: rgb(232, 226, 226);
 
+}
