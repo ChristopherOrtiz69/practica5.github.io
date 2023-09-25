@@ -38,11 +38,20 @@ a{
    font-family: 'Fuggles', cursive;
    font-family: 'Raleway', sans-serif;
    font-family: 'Roboto Condensed', sans-serif;
+   font-family: 'Trade Winds', cursive;
+   color: rgb(224, 223, 223);
+   background-color: rgb(93, 56, 145);
+   font-size: 26px;
+}
+.a-footer{
+    font-family: 'Fuggles', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Trade Winds', cursive;
     color: rgb(224, 223, 223);
     background-color: rgb(93, 56, 145);
-    font-size: 26px;
-}
+    font-size: 12px;
+ }
 a:hover {
     
     font-family: 'Fuggles', cursive;
@@ -53,10 +62,21 @@ a:hover {
     background-color: rgb(249, 148, 23);
     font-size: 26px;
   }
+a:hover(footer){
+    font-family: 'Fuggles', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Trade Winds', cursive;
+    color: rgb(232, 226, 226);
+    background-color: rgb(23, 249, 230);
+    font-size: 16px;
+}
+
 
 img {
     max-width: 100%;
   }
+
 
 .title-font{
     font-family: 'Fuggles', cursive;
@@ -100,17 +120,23 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 font-family: 'Trade Winds', cursive;
 }
+
 .card-allign{
-    position: relative;
-    
+    position: relative; 
     top: 50px; 
 }
+
+
+
 .button-font-color{
     font-family: 'Fuggles', cursive;
 font-family: 'Raleway', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 font-family: 'Trade Winds', cursive;
-
-
 }
- 
+.carousel-height{
+    width: 850px;
+    height: 600px;
+    
+}
+
