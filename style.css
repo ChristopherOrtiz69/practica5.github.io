@@ -48,7 +48,7 @@ a{
     font-family: 'Roboto Condensed', sans-serif;
     font-family: 'Trade Winds', cursive;
     color: rgb(224, 223, 223);
-    font-size: 14px;
+    font-size: 10px;
     
  }
 a:hover {
@@ -59,7 +59,7 @@ a:hover {
     font-family: 'Trade Winds', cursive;
     color: rgb(232, 226, 226);
     background-color: rgb(249, 148, 23);
-    font-size: 20px;
+    font-size: 12px;
   }
 
 
