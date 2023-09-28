@@ -130,7 +130,10 @@ font-family: 'Trade Winds', cursive;
     background-color: rgb(245, 245, 245);
 }
 .background-notices{
-    background-color: rgb(232, 226, 226)
+    background-color: rgb(232, 226, 226);
+}
+.background-quienes{
+    background-color:rgb(232, 226, 226);
 }
  
 .font-navbar{
